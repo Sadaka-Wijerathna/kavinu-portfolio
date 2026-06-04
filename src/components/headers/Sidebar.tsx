@@ -44,19 +44,19 @@ export default function Sidebar() {
                 <img
                   loading="lazy"
                   alt="personal-logo"
-                  src="/assets/images/logo/man.png"
+                  src="/assets/images/banner/ft.jpg"
                   width={340}
                   height={196}
                 />
               </a>
             </div>
             <h5 className="title mt--30">
-              Full Stack Creator delivering exceptional Graphic & Brand Identity solutions.
+              Kavinu Pasandul — Founder & Owner of Frame Toque Digital Media.
             </h5>
             <p className="disc">
-              I am a skilled creator specializing in Graphic Design, Brand Identity Design,
-              Video Editing, and Photography. I deliver high-end cinematic visuals and
-              unique brand experiences.
+              Frame Toque Digital Media crafts fast websites, bold graphics, and cinematic
+              videos that make your brand look serious and unforgettable. We specialize
+              in turning vision into high-end digital experiences.
             </p>
             <div className="short-contact-area">
               {/* single contact information */}
@@ -65,7 +65,7 @@ export default function Sidebar() {
                 <div className="information tmp-link-animation">
                   <span>Call Now</span>
                   <a href="tel:+94785907963" className="number">
-                    +94 78 590 7963
+                    +94 70 190 1461
                   </a>
                 </div>
               </div>
@@ -86,7 +86,7 @@ export default function Sidebar() {
                 <i className="fa-solid fa-location-crosshairs" />
                 <div className="information tmp-link-animation">
                   <span>My Address</span>
-                  <span className="number">66 Broklyant, New York 3269</span>
+                  <span className="number">Piliyandala, Sri Lanka</span>
                 </div>
               </div>
               {/* single contact information end */}
