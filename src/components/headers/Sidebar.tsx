@@ -44,7 +44,7 @@ export default function Sidebar() {
                 <img
                   loading="lazy"
                   alt="personal-logo"
-                  src="/assets/images/banner/ft.jpg"
+                  src="/assets/images/banner/ft.webp"
                   width={340}
                   height={196}
                 />
