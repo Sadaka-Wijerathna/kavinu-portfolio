@@ -17,7 +17,7 @@ export default function MetaComponent({ meta }: MetaProps) {
     updateMeta();
     return () => {
       document.title =
-        "Personal Portfolio Reactjs Template | Freelancer & Developer Portfolio";
+        "Kavinu Pasandul | Frame Toque Digital Media | Graphic Design & Video";
     };
   }, [meta.title]);
   return (
