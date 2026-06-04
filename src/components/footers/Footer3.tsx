@@ -22,7 +22,7 @@ export default function Footer3({
                       <img
                         loading="lazy"
                         className="logo-dark"
-                        alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                        alt="Frame Toque Digital Media Logo"
                         src={darkLogo}
                         width={121}
                         height={41}
@@ -30,7 +30,7 @@ export default function Footer3({
                       <img
                         loading="lazy"
                         className="logo-white"
-                        alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                        alt="Frame Toque Digital Media Logo"
                         src={lightLogo}
                         width={121}
                         height={40}
@@ -115,7 +115,7 @@ export default function Footer3({
         <div className="footer-bg-img">
           <img
             loading="lazy"
-            alt="footer-img"
+            alt="Frame Toque Digital Media Footer Showcase"
             width={437}
             height={430}
             src="/assets/images/footer/footer-bg-img.png"

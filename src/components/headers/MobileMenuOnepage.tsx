@@ -38,7 +38,7 @@ export default function MobileMenuOnepage() {
                 <img
                   loading="lazy"
                   className="logo-dark"
-                  alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                  alt="Frame Toque Digital Media Logo"
                   src="/assets/images/logo/kp.png"
                   width={121}
                   height={41}
@@ -46,7 +46,7 @@ export default function MobileMenuOnepage() {
                 <img
                   loading="lazy"
                   className="logo-white"
-                  alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                  alt="Frame Toque Digital Media Logo"
                   src="/assets/images/logo/kp.png"
                   width={121}
                   height={40}

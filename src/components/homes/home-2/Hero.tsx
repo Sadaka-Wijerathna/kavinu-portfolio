@@ -11,7 +11,7 @@ export default function Hero() {
                 <div className="main-img">
                   <img
                     className="tmp-scroll-trigger tmp-zoom-in animation-order-1"
-                    alt="banner-img"
+                    alt="Kavinu Pasandul - Cinematic Videography and Graphic Design Portfolio"
                     src="/assets/images/banner/banner-user-image-two.webp"
                     width={444}
                     height={711}
@@ -19,7 +19,7 @@ export default function Hero() {
 
                   <div className="benner-two-bg-red-img">
                     <img
-                      alt="red-img"
+                      alt="Frame Toque Branding Design Elements"
                       src="/assets/images/banner/banner-user-image-two-red-bg.png"
                       width={630}
                       height={285}

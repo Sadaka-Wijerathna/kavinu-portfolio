@@ -46,7 +46,7 @@ export default function Header1({
                   <img
                     loading="lazy"
                     className="logo-dark"
-                    alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                    alt="Frame Toque Digital Media Logo"
                     src={darkLogo}
                     width={121}
                     height={41}
@@ -54,7 +54,7 @@ export default function Header1({
                   <img
                     loading="lazy"
                     className="logo-white"
-                    alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                    alt="Frame Toque Digital Media Logo"
                     src={lightLogo}
                     width={121}
                     height={40}

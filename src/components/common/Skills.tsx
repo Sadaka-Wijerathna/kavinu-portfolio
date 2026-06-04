@@ -15,7 +15,7 @@ export default function Skills({
                     <span>
                       <img
                         loading="lazy"
-                        alt="custom-line"
+                        alt="Design separator line"
                         src="/assets/images/custom-line/custom-line.png"
                         width={81}
                         height={6}

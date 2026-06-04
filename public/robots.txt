@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kavinupasandul.vercel.app/sitemap.xml
+
+# AI Crawler Management
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /

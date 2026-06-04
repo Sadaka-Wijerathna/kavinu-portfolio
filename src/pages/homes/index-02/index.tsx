@@ -16,9 +16,9 @@ import MetaComponent from "@/components/common/Metacomponent";
 
 const metadata = {
   title:
-    "Home 02 || Personal Portfolio Reactjs Template | Freelancer & Developer Portfolio",
+    "Kavinu Pasandul | Frame Toque Digital Media | Graphic Design & Video",
   description:
-    "Personal Portfolio Reactjs Template | Freelancer & Developer Portfolio",
+    "Kavinu Pasandul is a Graphic Designer and Full Stack Creator in Sri Lanka, founder of Frame Toque Digital Media. Specializing in Brand Identity, Videography, and Photography.",
 };
 export default function HomePage2() {
   return (

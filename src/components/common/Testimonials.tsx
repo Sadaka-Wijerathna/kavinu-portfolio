@@ -82,7 +82,7 @@ export default function Testimonials() {
                 <div className="quat-logo">
                   <img
                     loading="lazy"
-                    alt="quat-logo"
+                    alt="Client Testimonial Quote Icon"
                     src="/assets/images/testimonial/quat-logo.svg"
                     width={47}
                     height={40}

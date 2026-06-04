@@ -15,7 +15,7 @@ export default function Sidebar() {
               <img
                 loading="lazy"
                 className="logo-dark"
-                alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                alt="Frame Toque Digital Media Logo"
                 src="/assets/images/logo/kp.png"
                 width={121}
                 height={41}
@@ -23,7 +23,7 @@ export default function Sidebar() {
               <img
                 loading="lazy"
                 className="logo-white"
-                alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
+                alt="Frame Toque Digital Media Logo"
                 src="/assets/images/logo/kp.png"
                 width={121}
                 height={40}
@@ -43,7 +43,7 @@ export default function Sidebar() {
               <a href="index.html">
                 <img
                   loading="lazy"
-                  alt="personal-logo"
+                  alt="Kavinu Pasandul - Frame Toque Digital Media"
                   src="/assets/images/banner/ft.webp"
                   width={340}
                   height={196}
