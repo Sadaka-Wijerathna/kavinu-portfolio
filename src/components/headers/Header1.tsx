@@ -6,8 +6,8 @@ import { useModalUI } from "@/context/ModalUIContext";
 import { useEffect, useState } from "react";
 
 export default function Header1({
-  darkLogo = "/assets/images/logo/white-logo-reeni.png",
-  lightLogo = "/assets/images/logo/logo-white.png",
+  darkLogo = "/assets/images/logo/kp.png",
+  lightLogo = "/assets/images/logo/kp.png",
 }) {
   const { openModal } = useModalUI();
   const [isSticky, setIsSticky] = useState(false);
@@ -67,16 +67,16 @@ export default function Header1({
               <div className="tmp-header-right">
                 <div className="social-share-wrapper d-none d-md-block">
                   <div className="social-link">
-                    <a href="#">
+                    <a href="https://www.instagram.com/skingod.frrr/" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-instagram" />
                     </a>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/kavinudigitalworks" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-linkedin-in" />
                     </a>
                     <a href="https://wa.me/94785907963" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-whatsapp" />
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/PodiSmoka/" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-facebook-f" />
                     </a>
                   </div>

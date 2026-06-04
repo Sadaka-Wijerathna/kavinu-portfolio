@@ -16,7 +16,7 @@ export default function Sidebar() {
                 loading="lazy"
                 className="logo-dark"
                 alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
-                src="/assets/images/logo/white-logo-reeni.png"
+                src="/assets/images/logo/kp.png"
                 width={121}
                 height={41}
               />
@@ -24,7 +24,7 @@ export default function Sidebar() {
                 loading="lazy"
                 className="logo-white"
                 alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
-                src="/assets/images/logo/logo-white.png"
+                src="/assets/images/logo/kp.png"
                 width={121}
                 height={40}
               />
@@ -75,8 +75,8 @@ export default function Sidebar() {
                 <i className="fa-solid fa-envelope" />
                 <div className="information tmp-link-animation">
                   <span>Mail Us</span>
-                  <a href="#" className="number">
-                    example@info.com
+                  <a href="mailto:pasandulk12@gmail.com" className="number">
+                    pasandulk12@gmail.com
                   </a>
                 </div>
               </div>

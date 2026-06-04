@@ -79,11 +79,11 @@ export default function TextAnim() {
             ref={textRef}
             className="text-para-documents tmp-scroll-trigger tmp-fade-in inv-title-animation-wrap animation-order-1"
           >
-            A personal <span>portfolio</span> is a collection of your work, that
-            is aa go achievements, and skills that highlights{" "}
-            <span>web design</span> in your is abilities and professional
-            growth. It serves as A personal to a portfolio in
-            <span> since 2009</span> a collection of your work
+            I'm Kavinu, founder of <span>Frame Toque Media</span> — from LK.
+            Since I start Designing, I've focused on <span>video editing</span>,
+            graphic design, <span>branded content production</span>, helping
+            clients stand out through cinematic visuals & purposeful design.
+            Every frame I deliver is built with <span>intention</span>.
           </h2>
 
           <div className="right-bg-text-para">

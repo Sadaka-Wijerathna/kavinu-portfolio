@@ -12,7 +12,7 @@ export default function Hero() {
                   <img
                     className="tmp-scroll-trigger tmp-zoom-in animation-order-1"
                     alt="banner-img"
-                    src="/assets/images/banner/banner-user-image-two.png"
+                    src="/assets/images/banner/banner-user-image-two.webp"
                     width={444}
                     height={711}
                   />

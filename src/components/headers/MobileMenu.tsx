@@ -44,7 +44,7 @@ export default function MobileMenu() {
                   loading="lazy"
                   className="logo-dark"
                   alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
-                  src="/assets/images/logo/white-logo-reeni.png"
+                  src="/assets/images/logo/kp.png"
                   width={121}
                   height={41}
                 />
@@ -52,7 +52,7 @@ export default function MobileMenu() {
                   loading="lazy"
                   className="logo-white"
                   alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
-                  src="/assets/images/logo/logo-white.png"
+                  src="/assets/images/logo/kp.png"
                   width={121}
                   height={40}
                 />

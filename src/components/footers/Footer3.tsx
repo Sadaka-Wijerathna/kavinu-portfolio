@@ -6,8 +6,8 @@ import MobileMenu from "../headers/MobileMenu";
 import MobileMenuOnepage from "../headers/MobileMenuOnepage";
 import { footerLinks, footerLinksWhite } from "@/data/footerLinks";
 export default function Footer3({
-  darkLogo = "/assets/images/logo/white-logo-reeni.png",
-  lightLogo = "/assets/images/logo/logo-white.png",
+  darkLogo = "/assets/images/logo/kp.png",
+  lightLogo = "/assets/images/logo/kp.png",
 }) {
   return (
     <>
@@ -78,7 +78,7 @@ export default function Footer3({
                       <span className="ft-icon">
                         <i className="fa-solid fa-envelope" />
                       </span>
-                      <a href="mailto:kavinupasandul@gmail.com">kavinupasandul@gmail.com</a>
+                      <a href="mailto:pasandulk12@gmail.com">pasandulk12@gmail.com</a>
                     </li>
                     <li>
                       <span className="ft-icon">

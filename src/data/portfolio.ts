@@ -3,7 +3,7 @@ export const portfolioItems = [
   {
     id: 1,
     animationOrder: 1,
-    imageSrc: "/assets/images/latest-portfolio/Branding/2nd post wht we do.png",
+    imageSrc: "/assets/images/latest-portfolio/Branding/2nd post wht we do.webp",
     title: "Agency Branding Showcase",
     tags: ["Branding", "Agency"],
     categories: ["Branding"],
@@ -12,7 +12,7 @@ export const portfolioItems = [
   {
     id: 2,
     animationOrder: 2,
-    imageSrc: "/assets/images/latest-portfolio/Branding/online post.png",
+    imageSrc: "/assets/images/latest-portfolio/Branding/online post.webp",
     title: "Online Presence Branding",
     tags: ["Branding", "Digital"],
     categories: ["Branding"],
@@ -21,7 +21,7 @@ export const portfolioItems = [
   {
     id: 3,
     animationOrder: 3,
-    imageSrc: "/assets/images/latest-portfolio/Branding/web dev  2.png",
+    imageSrc: "/assets/images/latest-portfolio/Branding/web dev  2.webp",
     title: "Creative Web Identity",
     tags: ["Branding", "Web"],
     categories: ["Branding"],
@@ -31,7 +31,7 @@ export const portfolioItems = [
   {
     id: 4,
     animationOrder: 4,
-    imageSrc: "/assets/images/latest-portfolio/Event Campaign/Final IG.png",
+    imageSrc: "/assets/images/latest-portfolio/Event Campaign/Final IG.webp",
     title: "Instagram Event Campaign",
     tags: ["Event", "Social"],
     categories: ["Event Campaign"],
@@ -40,7 +40,7 @@ export const portfolioItems = [
   {
     id: 5,
     animationOrder: 5,
-    imageSrc: "/assets/images/latest-portfolio/Event Campaign/Project Heqd.png",
+    imageSrc: "/assets/images/latest-portfolio/Event Campaign/Project Heqd.webp",
     title: "Project Milestone Campaign",
     tags: ["Campaign", "Design"],
     categories: ["Event Campaign"],
@@ -49,7 +49,7 @@ export const portfolioItems = [
   {
     id: 6,
     animationOrder: 6,
-    imageSrc: "/assets/images/latest-portfolio/Event Campaign/Reg Open.png",
+    imageSrc: "/assets/images/latest-portfolio/Event Campaign/Reg Open.webp",
     title: "Registration Launch Visuals",
     tags: ["Event", "Launch"],
     categories: ["Event Campaign"],
@@ -58,7 +58,7 @@ export const portfolioItems = [
   {
     id: 7,
     animationOrder: 7,
-    imageSrc: "/assets/images/latest-portfolio/Event Campaign/What is Ignite RC _.png",
+    imageSrc: "/assets/images/latest-portfolio/Event Campaign/What is Ignite RC _.webp",
     title: "Ignite RC Brand Campaign",
     tags: ["Event", "Campaign"],
     categories: ["Event Campaign"],
@@ -68,7 +68,7 @@ export const portfolioItems = [
   {
     id: 8,
     animationOrder: 8,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/grd 10 seminar.png",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/grd 10 seminar.webp",
     title: "Educational Seminar Flyer",
     tags: ["Flyer", "Education"],
     categories: ["Flyers"],
@@ -77,7 +77,7 @@ export const portfolioItems = [
   {
     id: 9,
     animationOrder: 9,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/Vesak final final.png",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/Vesak final final.webp",
     title: "Vesak Festival Flyer",
     tags: ["Flyer", "Cultural"],
     categories: ["Flyers"],
@@ -86,7 +86,7 @@ export const portfolioItems = [
   {
     id: 10,
     animationOrder: 10,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/P3.png",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/P3.webp",
     title: "Creative Print Promo",
     tags: ["Flyer", "Promo"],
     categories: ["Flyers"],
@@ -95,7 +95,7 @@ export const portfolioItems = [
   {
     id: 11,
     animationOrder: 11,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/leak.png",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/leak.webp",
     title: "Leak Promo Flyer",
     tags: ["Flyer", "Promo"],
     categories: ["Flyers"],
@@ -104,7 +104,7 @@ export const portfolioItems = [
   {
     id: 12,
     animationOrder: 12,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/mec lccny htto.png",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/mec lccny htto.webp",
     title: "Event Promo Design",
     tags: ["Flyer", "Event"],
     categories: ["Flyers"],
@@ -113,7 +113,7 @@ export const portfolioItems = [
   {
     id: 13,
     animationOrder: 13,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.02.jpeg",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.02.webp",
     title: "Promotional Flyer Design 1",
     tags: ["Flyer", "Design"],
     categories: ["Flyers"],
@@ -122,7 +122,7 @@ export const portfolioItems = [
   {
     id: 14,
     animationOrder: 14,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.04.jpeg",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.04.webp",
     title: "Promotional Flyer Design 2",
     tags: ["Flyer", "Design"],
     categories: ["Flyers"],
@@ -131,7 +131,7 @@ export const portfolioItems = [
   {
     id: 15,
     animationOrder: 15,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.06.jpeg",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.06.webp",
     title: "Promotional Flyer Design 3",
     tags: ["Flyer", "Design"],
     categories: ["Flyers"],
@@ -140,7 +140,7 @@ export const portfolioItems = [
   {
     id: 16,
     animationOrder: 16,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.09.jpeg",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.09.webp",
     title: "Promotional Flyer Design 4",
     tags: ["Flyer", "Design"],
     categories: ["Flyers"],
@@ -149,7 +149,7 @@ export const portfolioItems = [
   {
     id: 17,
     animationOrder: 17,
-    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.11.jpeg",
+    imageSrc: "/assets/images/latest-portfolio/Flyers/WhatsApp Image 2026-06-04 at 21.49.11.webp",
     title: "Promotional Flyer Design 5",
     tags: ["Flyer", "Design"],
     categories: ["Flyers"],
@@ -159,7 +159,7 @@ export const portfolioItems = [
   {
     id: 18,
     animationOrder: 18,
-    imageSrc: "/assets/images/latest-portfolio/Manipulation/Photo_DSSenanayakeCollege_KavinuPasandul.png",
+    imageSrc: "/assets/images/latest-portfolio/Manipulation/Photo_DSSenanayakeCollege_KavinuPasandul.webp",
     title: "Advanced Photo Manipulation",
     tags: ["Manipulation", "Art"],
     categories: ["Manipulation"],
@@ -168,7 +168,7 @@ export const portfolioItems = [
   {
     id: 19,
     animationOrder: 19,
-    imageSrc: "/assets/images/latest-portfolio/Manipulation/WhatsApp Image 2026-06-04 at 21.53.29.jpeg",
+    imageSrc: "/assets/images/latest-portfolio/Manipulation/WhatsApp Image 2026-06-04 at 21.53.29.webp",
     title: "Creative Photo Retouch",
     tags: ["Manipulation", "Retouch"],
     categories: ["Manipulation"],
@@ -178,7 +178,7 @@ export const portfolioItems = [
   {
     id: 20,
     animationOrder: 20,
-    imageSrc: "/assets/images/latest-portfolio/Posters/Preveen ayy.png",
+    imageSrc: "/assets/images/latest-portfolio/Posters/Preveen ayy.webp",
     title: "Theatrical Poster Design",
     tags: ["Poster", "Creative"],
     categories: ["Posters"],
@@ -187,7 +187,7 @@ export const portfolioItems = [
   {
     id: 21,
     animationOrder: 21,
-    imageSrc: "/assets/images/latest-portfolio/Posters/Seminar P 1.png",
+    imageSrc: "/assets/images/latest-portfolio/Posters/Seminar P 1.webp",
     title: "Professional Seminar Poster",
     tags: ["Poster", "Event"],
     categories: ["Posters", "Flyers"],
@@ -196,7 +196,7 @@ export const portfolioItems = [
   {
     id: 22,
     animationOrder: 22,
-    imageSrc: "/assets/images/latest-portfolio/Posters/Sinaha project.png",
+    imageSrc: "/assets/images/latest-portfolio/Posters/Sinaha project.webp",
     title: "Sinaha Project Poster",
     tags: ["Poster", "Project"],
     categories: ["Posters"],
@@ -205,7 +205,7 @@ export const portfolioItems = [
   {
     id: 23,
     animationOrder: 23,
-    imageSrc: "/assets/images/latest-portfolio/Posters/minuka.png",
+    imageSrc: "/assets/images/latest-portfolio/Posters/minuka.webp",
     title: "Minuka Signature Poster",
     tags: ["Poster", "Design"],
     categories: ["Posters"],
@@ -217,7 +217,7 @@ export const portfolioItems2 = [
   {
     id: 1,
     animationOrder: 1,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-1.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-1.webp",
     width: 1920,
     height: 1572,
     title: "Digital Transformation Advisors",
@@ -227,7 +227,7 @@ export const portfolioItems2 = [
   {
     id: 2,
     animationOrder: 2,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-2.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-2.webp",
     width: 1939,
     height: 1572,
     title: "My work is driven by the belief that thoughtful",
@@ -237,7 +237,7 @@ export const portfolioItems2 = [
   {
     id: 3,
     animationOrder: 3,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-3.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-3.webp",
     width: 1939,
     height: 1572,
     title: "In this portfolio, you'll find a curated selection",
@@ -247,7 +247,7 @@ export const portfolioItems2 = [
   {
     id: 4,
     animationOrder: 4,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-4.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-4.webp",
     width: 1939,
     height: 1572,
     title: "I've had the privilege of working with various",
@@ -304,7 +304,7 @@ export const portfolioItems3 = [
 export const portfolioItems4 = [
   {
     id: 1,
-    imageSrc: "/assets/images/portfolio/portfolio-01.jpg",
+    imageSrc: "/assets/images/portfolio/portfolio-01.webp",
     title: "The services provide design",
     category: "Development",
     likes: 600,
@@ -313,7 +313,7 @@ export const portfolioItems4 = [
   },
   {
     id: 2,
-    imageSrc: "/assets/images/portfolio/portfolio-02.jpg",
+    imageSrc: "/assets/images/portfolio/portfolio-02.webp",
     title: "The services provide design",
     category: "Development",
     likes: 600,
@@ -322,7 +322,7 @@ export const portfolioItems4 = [
   },
   {
     id: 3,
-    imageSrc: "/assets/images/portfolio/portfolio-03.jpg",
+    imageSrc: "/assets/images/portfolio/portfolio-03.webp",
     title: "The services provide design",
     category: "Development",
     likes: 600,
@@ -331,7 +331,7 @@ export const portfolioItems4 = [
   },
   {
     id: 4,
-    imageSrc: "/assets/images/portfolio/portfolio-04.jpg",
+    imageSrc: "/assets/images/portfolio/portfolio-04.webp",
     title: "The services provide design",
     category: "Development",
     likes: 600,
@@ -429,7 +429,7 @@ export const portfolioItems6 = [
 export const portfolioItems7 = [
   {
     id: 1,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-1.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-1.webp",
     title: "My Journey as a Creator",
     description: "Development Coaches",
     width: 1920,
@@ -439,7 +439,7 @@ export const portfolioItems7 = [
   },
   {
     id: 2,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-2.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-2.webp",
     title: "My Professional Portfolio",
     description: "Development Coaches",
     width: 1939,
@@ -449,7 +449,7 @@ export const portfolioItems7 = [
   },
   {
     id: 3,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-3.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-3.webp",
     title: "My Portfolio of Innovation",
     description: "App Development",
     width: 1939,
@@ -459,7 +459,7 @@ export const portfolioItems7 = [
   },
   {
     id: 4,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-4.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-4.webp",
     title: "A Portfolio of Creativity and Passion",
     description: "Business Development",
     width: 1939,
@@ -536,7 +536,7 @@ export const portfolioItems9 = [
   {
     id: 1,
     animationOrder: 1,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-5.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-5.webp",
     title: "SAAS website design",
     tags: ["Figma", "Framer"],
     buttonText: "View Design",
@@ -547,7 +547,7 @@ export const portfolioItems9 = [
   {
     id: 2,
     animationOrder: 2,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-6.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-6.webp",
     title: "Workout App design 3",
     tags: ["Adobe", "Webflow", "Ai"],
     buttonText: "View Design",
@@ -558,7 +558,7 @@ export const portfolioItems9 = [
   {
     id: 3,
     animationOrder: 3,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-7.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-7.webp",
     title: "e-Commerce design",
     tags: ["Figma", "Framer", "Wordpress"],
     buttonText: "View Design",
@@ -569,7 +569,7 @@ export const portfolioItems9 = [
   {
     id: 4,
     animationOrder: 4,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-8.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-8.webp",
     title: "Dashboard design 4",
     tags: ["Adobe", "Webflow"],
     buttonText: "View Design",
@@ -582,7 +582,7 @@ export const portfolioItems9 = [
 export const portfolioItems10 = [
   {
     id: 1,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-5.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-5.webp",
     imageAlt: "Blog Thumbnail",
     title: "SAAS website design",
     tags: ["Figma", "Framer"],
@@ -591,7 +591,7 @@ export const portfolioItems10 = [
   },
   {
     id: 2,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-6.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-6.webp",
     imageAlt: "Blog Thumbnail",
     title: "Workout App design 4",
     tags: ["Adobe", "Webflow", "Ai"],
@@ -600,7 +600,7 @@ export const portfolioItems10 = [
   },
   {
     id: 3,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-7.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-7.webp",
     imageAlt: "Blog Thumbnail",
     title: "e-Commerce design",
     tags: ["Figma", "Framer", "Wordpress"],
@@ -609,7 +609,7 @@ export const portfolioItems10 = [
   },
   {
     id: 4,
-    imageSrc: "/assets/images/latest-portfolio/portfoli-img-8.jpg",
+    imageSrc: "/assets/images/latest-portfolio/portfoli-img-8.webp",
     imageAlt: "Blog Thumbnail",
     title: "Dashboard design 5",
     tags: ["Adobe", "Webflow"],

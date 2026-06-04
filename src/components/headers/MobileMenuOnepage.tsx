@@ -39,7 +39,7 @@ export default function MobileMenuOnepage() {
                   loading="lazy"
                   className="logo-dark"
                   alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
-                  src="/assets/images/logo/white-logo-reeni.png"
+                  src="/assets/images/logo/kp.png"
                   width={121}
                   height={41}
                 />
@@ -47,7 +47,7 @@ export default function MobileMenuOnepage() {
                   loading="lazy"
                   className="logo-white"
                   alt="Reeni - Personal Portfolio HTML Template for developers and freelancers"
-                  src="/assets/images/logo/logo-white.png"
+                  src="/assets/images/logo/kp.png"
                   width={121}
                   height={40}
                 />
@@ -66,16 +66,16 @@ export default function MobileMenuOnepage() {
           <div className="social-wrapper mt--40">
             <span className="subtitle">find with me</span>
             <div className="social-link">
-              <a href="#">
+              <a href="https://www.instagram.com/skingod.frrr/" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-instagram" />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/kavinudigitalworks" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-linkedin-in" />
               </a>
-              <a href="#">
-                <i className="fa-brands fa-twitter" />
+              <a href="https://wa.me/94785907963" target="_blank" rel="noopener noreferrer">
+                <i className="fa-brands fa-whatsapp" />
               </a>
-              <a href="#">
+              <a href="https://www.facebook.com/PodiSmoka/" target="_blank" rel="noopener noreferrer">
                 <i className="fa-brands fa-facebook-f" />
               </a>
             </div>
