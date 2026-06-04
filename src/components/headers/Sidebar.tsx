@@ -95,16 +95,16 @@ export default function Sidebar() {
             <div className="social-wrapper mt--20">
               <span className="subtitle">find with me</span>
               <div className="social-link">
-                <a href="#">
+                <a href="https://www.instagram.com/skingod.frrr/" target="_blank" rel="noopener noreferrer">
                   <i className="fa-brands fa-instagram" />
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/kavinudigitalworks" target="_blank" rel="noopener noreferrer">
                   <i className="fa-brands fa-linkedin-in" />
                 </a>
                 <a href="https://wa.me/94785907963" target="_blank" rel="noopener noreferrer">
                   <i className="fa-brands fa-whatsapp" />
                 </a>
-                <a href="#">
+                <a href="https://www.facebook.com/PodiSmoka/" target="_blank" rel="noopener noreferrer">
                   <i className="fa-brands fa-facebook-f" />
                 </a>
               </div>

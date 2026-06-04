@@ -94,16 +94,16 @@ export default function Footer3({
                     </li>
                   </ul>
                   <div className="social-link footer">
-                    <a href="#">
+                    <a href="https://www.instagram.com/skingod.frrr/" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-instagram" />
                     </a>
-                    <a href="#">
+                    <a href="https://www.linkedin.com/in/kavinudigitalworks" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-linkedin-in" />
                     </a>
                     <a href="https://wa.me/94785907963" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-whatsapp" />
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/PodiSmoka/" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-facebook-f" />
                     </a>
                   </div>
