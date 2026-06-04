@@ -1,5 +1,24 @@
-export const menuItems = [];
-export const menuItemsLight = [];
+export interface MenuItem {
+  label: string;
+  href: string;
+  isLink?: boolean;
+  hasDropdown?: boolean;
+  submenu?: { label: string; href: string }[];
+}
+
+export const menuItems: MenuItem[] = [
+  { label: "Home", href: "/", isLink: true },
+  { label: "About", href: "#about", isLink: false },
+  { label: "Portfolio", href: "#portfolio", isLink: false },
+  { label: "Testimonials", href: "#testimonials", isLink: false },
+];
+
+export const menuItemsLight: MenuItem[] = [
+  { label: "Home", href: "/", isLink: true },
+  { label: "About", href: "#about", isLink: false },
+  { label: "Portfolio", href: "#portfolio", isLink: false },
+  { label: "Testimonials", href: "#testimonials", isLink: false },
+];
 export const demoData = [
   { href: "/", img: "/assets/images/demo/home-1.png", title: "Main Demo" },
   {

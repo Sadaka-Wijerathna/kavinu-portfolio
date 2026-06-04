@@ -13,7 +13,7 @@ export default function Nav1() {
             className={`${item.hasDropdown ? "has-dropdown" : ""} ${
               item.submenu
                 ? item.submenu.some(
-                    (elm) => elm.href.split("/")[1] == pathname.split("/")[1]
+                    (elm: any) => elm.href.split("/")[1] == pathname.split("/")[1]
                   )
                   ? "menu-item-open"
                   : ""
@@ -42,7 +42,7 @@ export default function Nav1() {
 
             {item.hasDropdown && (
               <ul className="submenu">
-                {item.submenu.map((subItem, subIndex) => (
+                {item.submenu?.map((subItem, subIndex) => (
                   <li key={subIndex}>
                     <Link
                       className={`${
@@ -68,7 +68,7 @@ export default function Nav1() {
             className={`${item.hasDropdown ? "has-dropdown" : ""} ${
               item.submenu
                 ? item.submenu.some(
-                    (elm) => elm.href.split("/")[1] == pathname.split("/")[1]
+                    (elm: any) => elm.href.split("/")[1] == pathname.split("/")[1]
                   )
                   ? "menu-item-open"
                   : ""
@@ -97,7 +97,7 @@ export default function Nav1() {
 
             {item.hasDropdown && (
               <ul className="submenu">
-                {item.submenu.map((subItem, subIndex) => (
+                {item.submenu?.map((subItem, subIndex) => (
                   <li key={subIndex}>
                     <Link
                       className={`${
